@@ -1,0 +1,41 @@
+{
+  "products": [],
+  "users": [
+    {
+      "id": 1,
+      "name": "Daler"
+    },
+    {
+      "id": 2,
+      "name": "Ozod"
+    },
+    {
+      "id": 3,
+      "name": "Manucher"
+    },
+    {
+      "id": 4,
+      "name": "Fayoz"
+    },
+    {
+      "id": 5,
+      "name": "Otabek"
+    },
+    {
+      "id": 6,
+      "name": "Otabek Jr"
+    },
+    {
+      "id": 7,
+      "name": "Muxammad"
+    },
+    {
+      "id": 8,
+      "name": "Aminjon"
+    },
+    {
+      "id": 9,
+      "name": "Davlat"
+    }
+  ]
+}
